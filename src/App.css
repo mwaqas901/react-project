@@ -28,6 +28,38 @@
   color: #61dafb;
 }
 
+.contact-us {
+  padding: 20px 0px;
+  background: #888888;
+  color: white;
+  font-weight: bold;
+}
+
+.about-us {
+  padding: 20px 0px;
+  background: #61dafb;
+  color: white;
+  font-weight: bold;
+}
+
+.about-us p {
+  color: black;
+  font-style: italic;
+}
+
+.update {
+  margin: 20px 10px;
+  padding: 10px;
+  border-radius: 4px;
+  border-color: transparent;
+  transition: 0.4s ease-in;
+}
+
+.update:hover {
+  background-color: #61dafb;
+  color: #000;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
